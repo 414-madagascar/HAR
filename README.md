@@ -1,7 +1,6 @@
 #   CMPUT 414 Project, Winter 2019
 
-#   Group members: Fei Yang
-#     	           Ningbo Zhu
+#   Group members: Fei Yang and Ningbo Zhu
 
 #   Group name: Madagascar
 
