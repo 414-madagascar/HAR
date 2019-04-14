@@ -1,0 +1,958 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7000 64-bit) (preloaded format=xelatex 2019.3.31)  14 APR 2019 03:10
+entering extended mode
+**"D:/University/414/project/final report/final_report/final_report.tex"
+("D:/University/414/project/final report/final_report/final_report.tex"
+LaTeX2e <2018-12-01>
+(llncs.cls
+Document Class: llncs 2017/09/04 v2.19 
+ LaTeX document class for Lecture Notes in Computer Science
+(D:\applications\miktex\install\tex/latex/base\article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(D:\applications\miktex\install\tex/latex/base\size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(D:\applications\miktex\install\tex/latex/tools\multicol.sty
+Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
+\c@tracingmulticols=\count88
+\mult@box=\box27
+\multicol@leftmargin=\dimen103
+\c@unbalance=\count89
+\c@collectmore=\count90
+\doublecol@number=\count91
+\multicoltolerance=\count92
+\multicolpretolerance=\count93
+\full@width=\dimen104
+\page@free=\dimen105
+\premulticols=\dimen106
+\postmulticols=\dimen107
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box28
+\last@line=\box29
+\maxbalancingoverflow=\dimen108
+\mult@rightbox=\box30
+\mult@grightbox=\box31
+\mult@gfirstbox=\box32
+\mult@firstbox=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\c@columnbadness=\count94
+\c@finalcolumnbadness=\count95
+\last@try=\dimen109
+\multicolovershoot=\dimen110
+\multicolundershoot=\dimen111
+\mult@nat@firstbox=\box51
+\colbreak@box=\box52
+\mc@col@check@num=\count96
+)
+(D:\applications\miktex\install\tex/latex/oberdiek\aliascnt.sty
+Package: aliascnt 2018/09/07 v1.5 Alias counters (HO)
+)
+\c@chapter=\count97
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 362.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 363.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 364.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 365.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 366.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 367.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 368.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 369.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 370.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 371.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 372.
+\tocchpnum=\dimen112
+\tocsecnum=\dimen113
+\tocsectotal=\dimen114
+\tocsubsecnum=\dimen115
+\tocsubsectotal=\dimen116
+\tocsubsubsecnum=\dimen117
+\tocsubsubsectotal=\dimen118
+\tocparanum=\dimen119
+\tocparatotal=\dimen120
+\tocsubparanum=\dimen121
+\@tempcntc=\count98
+\fnindent=\dimen122
+\c@@inst=\count99
+\c@@auth=\count100
+\c@auco=\count101
+\instindent=\dimen123
+\authrun=\box53
+\authorrunning=\toks14
+\tocauthor=\toks15
+\titrun=\box54
+\titlerunning=\toks16
+\toctitle=\toks17
+\c@theorem=\count102
+\c@case=\count103
+\c@conjecture=\count104
+\c@corollary=\count105
+\c@definition=\count106
+\c@example=\count107
+\c@exercise=\count108
+\c@lemma=\count109
+\c@note=\count110
+\c@problem=\count111
+\c@property=\count112
+\c@proposition=\count113
+\c@question=\count114
+\c@solution=\count115
+\c@remark=\count116
+\headlineindent=\dimen124
+)
+(D:\applications\miktex\install\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(D:\applications\miktex\install\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(D:\applications\miktex\install\tex/latex/graphics\graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\applications\miktex\install\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(D:\applications\miktex\install\tex/latex/graphics\graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\applications\miktex\install\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(D:\applications\miktex\install\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 99.
+
+(D:\applications\miktex\install\tex/latex/graphics-def\xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen125
+\Gin@req@width=\dimen126
+)
+(D:\applications\miktex\install\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(D:\applications\miktex\install\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(D:\applications\miktex\install\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen127
+))
+(D:\applications\miktex\install\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen128
+)
+(D:\applications\miktex\install\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count117
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count118
+\leftroot@=\count119
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count120
+\DOTSCASE@=\count121
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+\big@size=\dimen129
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+
+
+Package amsmath Warning: Unable to redefine math accent \vec.
+
+\macc@depth=\count122
+\c@MaxMatrixCols=\count123
+\dotsspace@=\muskip10
+\c@parentequation=\count124
+\dspbrk@lvl=\count125
+\tag@help=\toks21
+\row@=\count126
+\column@=\count127
+\maxfields@=\count128
+\andhelp@=\toks22
+\eqnshift@=\dimen130
+\alignsep@=\dimen131
+\tagshift@=\dimen132
+\tagwidth@=\dimen133
+\totwidth@=\dimen134
+\lineht@=\dimen135
+\@envbody=\toks23
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+) (D:\applications\miktex\install\tex/latex/caption\caption.sty
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+(D:\applications\miktex\install\tex/latex/caption\caption3.sty
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen136
+\captionmargin@=\dimen137
+\captionwidth=\dimen138
+\caption@tempdima=\dimen139
+\caption@indent=\dimen140
+\caption@parindent=\dimen141
+\caption@hangindent=\dimen142
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\small \vskip \abovecap
+tionskip \sbox \@tempboxa {{\bfseries #1.} #2}\ifdim \wd \@tempboxa >\hsize {\b
+fseries #1.} #2\par \else \global \@minipagefalse \hb@xt@ \hsize {\hfil \box \@
+tempboxa \hfil }\fi \vskip \belowcaptionskip .
+\c@caption@flags=\count129
+\c@ContinuedFloat=\count130
+) (D:\applications\miktex\install\tex/latex/subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count131
+\sf@farskip=\skip48
+\sf@captopadj=\dimen143
+\sf@capskip=\skip49
+\sf@nearskip=\skip50
+\c@subfigure=\count132
+\c@subfigure@save=\count133
+\c@lofdepth=\count134
+\c@subtable=\count135
+\c@subtable@save=\count136
+\c@lotdepth=\count137
+\sf@top=\skip51
+\sf@bottom=\skip52
+)
+(D:\applications\miktex\install\tex/latex/multirow\multirow.sty
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip53
+\multirow@cntb=\count138
+\multirow@dima=\skip54
+\bigstrutjot=\dimen144
+)
+(D:\applications\miktex\install\tex/latex/tools\array.sty
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen145
+\ar@mcellbox=\box57
+\extrarowheight=\dimen146
+\NC@list=\toks25
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box58
+)
+(D:\applications\miktex\install\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen147
+\lightrulewidth=\dimen148
+\cmidrulewidth=\dimen149
+\belowrulesep=\dimen150
+\belowbottomsep=\dimen151
+\aboverulesep=\dimen152
+\abovetopsep=\dimen153
+\cmidrulesep=\dimen154
+\cmidrulekern=\dimen155
+\defaultaddspace=\dimen156
+\@cmidla=\count139
+\@cmidlb=\count140
+\@aboverulesep=\dimen157
+\@belowrulesep=\dimen158
+\@thisruleclass=\count141
+\@lastruleclass=\count142
+\@thisrulewidth=\dimen159
+)
+(D:\applications\miktex\install\tex/latex/url\url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(D:\applications\miktex\install\tex/latex/algorithms\algorithm.sty
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(D:\applications\miktex\install\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count143
+\float@exts=\toks26
+\float@box=\box59
+\@float@everytoks=\toks27
+\@floatcapt=\box60
+)
+(D:\applications\miktex\install\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks28
+\c@algorithm=\count144
+)
+(D:\applications\miktex\install\tex/latex/algorithms\algorithmic.sty
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count145
+\c@ALC@line=\count146
+\c@ALC@rem=\count147
+\c@ALC@depth=\count148
+\ALC@tlm=\skip57
+\algorithmicindent=\skip58
+)
+(final_report.aux
+
+LaTeX Warning: Label `code:recentEnd' multiply defined.
+
+)
+\openout1 = `final_report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 82.
+ (D:\applications\miktex\install\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 82.
+
+(D:\applications\miktex\install\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+]
+File: dataset-1.JPG Graphic file (type bmp)
+<dataset-1.JPG>
+
+Overfull \hbox (10.92757pt too wide) in paragraph at lines 104--105
+ [][] 
+ []
+
+File: dataset-2.JPG Graphic file (type bmp)
+<dataset-2.JPG>
+
+Overfull \hbox (4.09871pt too wide) in paragraph at lines 113--114
+ [][] 
+ []
+
+File: dataset-3.JPG Graphic file (type bmp)
+<dataset-3.JPG>
+
+Overfull \hbox (4.09871pt too wide) in paragraph at lines 119--120
+ [][] 
+ []
+
+[2]
+Overfull \hbox (49.17145pt too wide) in paragraph at lines 128--135
+[][] 
+ []
+
+[3]
+File: opticalflowresult1.png Graphic file (type bmp)
+<opticalflowresult1.png>
+
+Overfull \hbox (0.62408pt too wide) in paragraph at lines 152--153
+ [][] 
+ []
+
+File: opticalflowresult2.png Graphic file (type bmp)
+<opticalflowresult2.png>
+
+Overfull \hbox (0.62408pt too wide) in paragraph at lines 158--159
+ [][] 
+ []
+
+
+Overfull \hbox (23.82428pt too wide) in paragraph at lines 164--167
+\TU/lmr/m/n/10 In this study, the length of final feature histogram is 69 frame
+s $\OMS/cmsy/m/n/10 ^^B$ \TU/lmr/m/n/10 (|-500|+|500|)=69000.
+ []
+
+[4]
+File: footballBoxing-1.JPG Graphic file (type bmp)
+<footballBoxing-1.JPG>
+
+Overfull \hbox (0.62408pt too wide) in paragraph at lines 173--174
+ [][] 
+ []
+
+File: footballBoxing-1.JPG Graphic file (type bmp)
+<footballBoxing-1.JPG>
+
+Overfull \hbox (0.62408pt too wide) in paragraph at lines 179--180
+ [][] 
+ []
+
+File: footballFootball-1.JPG Graphic file (type bmp)
+<footballFootball-1.JPG>
+
+Overfull \hbox (0.62408pt too wide) in paragraph at lines 189--190
+ [][] 
+ []
+
+File: footballFootball-2.JPG Graphic file (type bmp)
+<footballFootball-2.JPG>
+
+Overfull \hbox (0.62408pt too wide) in paragraph at lines 195--196
+ [][] 
+ []
+
+File: footballTabletennis-1.JPG Graphic file (type bmp)
+<footballTabletennis-1.JPG>
+
+Overfull \hbox (0.62408pt too wide) in paragraph at lines 205--206
+ [][] 
+ []
+
+File: footballTabletennis-2.JPG Graphic file (type bmp)
+<footballTabletennis-2.JPG>
+
+Overfull \hbox (0.62408pt too wide) in paragraph at lines 211--212
+ [][] 
+ []
+
+File: footballVolleyball-1.JPG Graphic file (type bmp)
+<footballVolleyball-1.JPG>
+
+Overfull \hbox (0.62408pt too wide) in paragraph at lines 221--222
+ [][] 
+ []
+
+File: footballVolleyball-2.JPG Graphic file (type bmp)
+<footballVolleyball-2.JPG>
+
+Overfull \hbox (0.62408pt too wide) in paragraph at lines 227--228
+ [][] 
+ []
+
+[5] [6]
+File: his-3_x.JPG Graphic file (type bmp)
+<his-3_x.JPG>
+
+Overfull \hbox (0.62408pt too wide) in paragraph at lines 259--260
+ [][] 
+ []
+
+File: his-3_y.JPG Graphic file (type bmp)
+<his-3_y.JPG>
+
+Overfull \hbox (0.62408pt too wide) in paragraph at lines 265--266
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--274
+
+ []
+
+
+Underfull \vbox (badness 7326) has occurred while \output is active []
+
+ [7]
+Underfull \hbox (badness 10000) in paragraph at lines 277--278
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--282
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--284
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--290
+
+ []
+
+[8] [9]
+Underfull \hbox (badness 10000) in paragraph at lines 350--351
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--355
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--359
+
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 359--364
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--366
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 371--372
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--375
+
+ []
+
+[11]
+Overfull \hbox (2.04826pt too wide) in paragraph at lines 438--438
+[]|\TU/lmr/m/n/9 Publish
+ []
+
+
+Underfull \hbox (badness 3557) in paragraph at lines 441--441
+[]|\TU/lmr/m/n/9 AdaBoost was trained
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 441--441
+\TU/lmr/m/n/9 on the source dataset
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
+\TU/lmr/m/n/9 and the parameters:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
+\TU/lmr/m/n/9 frames around each
+ []
+
+
+Underfull \hbox (badness 3000) in paragraph at lines 441--441
+\TU/lmr/m/n/9 peak pose the sliding
+ []
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 441--441
+\TU/lmr/m/n/9 were optimised on the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
+\TU/lmr/m/n/9 training part of the
+ []
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 441--441
+\TU/lmr/m/n/9 method was evaluated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
+[]|\TU/lmr/m/n/9 Human Action
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
+\TU/lmr/m/n/9 Recognition
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
+\TU/lmr/m/n/9 Based on Ad-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
+\TU/lmr/m/n/9 aBoost Algo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--441
+[]|\TU/lmr/m/n/9 2014
+ []
+
+
+Underfull \hbox (badness 4621) in paragraph at lines 441--442
+\TU/lmr/m/n/9 Lu Zhou,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--444
+[]|\TU/lmr/m/n/9 Clustered
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--444
+\TU/lmr/m/n/9 Spatio-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--444
+\TU/lmr/m/n/9 Temporal
+ []
+
+
+Underfull \hbox (badness 1708) in paragraph at lines 444--444
+[]|\TU/lmr/m/n/9 CSTM trained on the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--444
+\TU/lmr/m/n/9 source dataset and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--444
+\TU/lmr/m/n/9 the parameters: the
+ []
+
+
+Underfull \hbox (badness 2035) in paragraph at lines 444--444
+\TU/lmr/m/n/9 template size and the
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 444--444
+\TU/lmr/m/n/9 ing part of the target
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--444
+\TU/lmr/m/n/9 temporal Mani-
+ []
+
+
+Underfull \hbox (badness 1975) in paragraph at lines 444--444
+\TU/lmr/m/n/9 folds for Online
+ []
+
+
+Underfull \hbox (badness 6575) in paragraph at lines 444--444
+\TU/lmr/m/n/9 Action Recogni-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--444
+[]|\TU/lmr/m/n/9 2014
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--445
+[]|\TU/lmr/m/n/9 Victoria
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--445
+\TU/lmr/m/n/9 Bloom,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--445
+\TU/lmr/m/n/9 Dimitrios
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--445
+\TU/lmr/m/n/9 Makris,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--445
+\TU/lmr/m/n/9 Vasileios
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--450
+[]|\TU/lmr/m/n/9 Body Part
+ []
+
+
+Underfull \hbox (badness 2237) in paragraph at lines 450--450
+[]|\TU/lmr/m/n/9 An extension of PSM
+ []
+
+
+Underfull \hbox (badness 6658) in paragraph at lines 450--450
+\TU/lmr/m/n/9 which instead of us-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--450
+\TU/lmr/m/n/9 ing the standard
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--450
+\TU/lmr/m/n/9 DTW(Dynamic Time
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--450
+\TU/lmr/m/n/9 ing process, uses a
+ []
+
+
+Underfull \hbox (badness 4505) in paragraph at lines 450--450
+\TU/lmr/m/n/9 body parts to detect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--453
+[]|\TU/lmr/m/n/9 Transfer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--453
+\TU/lmr/m/n/9 Learning
+ []
+
+
+Underfull \hbox (badness 2237) in paragraph at lines 453--453
+[]|\TU/lmr/m/n/9 An extension of PSM
+ []
+
+
+Underfull \hbox (badness 1668) in paragraph at lines 453--453
+\TU/lmr/m/n/9 pler dataset, and per-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--453
+[]|\TU/lmr/m/n/9 Transfer Learn-
+ []
+
+
+Underfull \hbox (badness 2401) in paragraph at lines 453--453
+\TU/lmr/m/n/9 ing for Activity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--453
+\TU/lmr/m/n/9 Recognition: A
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--453
+[]|\TU/lmr/m/n/9 2013
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--454
+[]|\TU/lmr/m/n/9 Diane
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--454
+\TU/lmr/m/n/9 Cook,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--454
+\TU/lmr/m/n/9 Kyle
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--454
+\TU/lmr/m/n/9 D. Feuz,
+ []
+
+
+Overfull \hbox (1.01588pt too wide) in paragraph at lines 453--454
+\TU/lmr/m/n/9 Narayanan
+ []
+
+
+Underfull \hbox (badness 3568) in paragraph at lines 453--454
+\TU/lmr/m/n/9 C. Krish-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--456
+[]|\TU/lmr/m/n/9 Hierarchical
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--456
+\TU/lmr/m/n/9 Transfer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--456
+\TU/lmr/m/n/9 Learning
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--456
+[]|\TU/lmr/m/n/9 Transfer learning is
+ []
+
+
+Underfull \hbox (badness 4254) in paragraph at lines 456--456
+\TU/lmr/m/n/9 applied to Peak Seg-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--456
+\TU/lmr/m/n/9 ferred from simple
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--456
+\TU/lmr/m/n/9 actions in a source
+ []
+
+
+Underfull \hbox (badness 1708) in paragraph at lines 456--456
+\TU/lmr/m/n/9 by adapting the body
+ []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 456--456
+\TU/lmr/m/n/9 part models and peak
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--456
+[]|\TU/lmr/m/n/9 Hierarchical
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--456
+\TU/lmr/m/n/9 Transfer Learn-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--456
+\TU/lmr/m/n/9 ing for Online
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--456
+\TU/lmr/m/n/9 Recognition
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--456
+\TU/lmr/m/n/9 of Compound
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--456
+[]|\TU/lmr/m/n/9 2015
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
+[]|\TU/lmr/m/n/9 Victoria
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
+\TU/lmr/m/n/9 Bloom,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
+\TU/lmr/m/n/9 Vasileios
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
+\TU/lmr/m/n/9 Argyriou,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
+\TU/lmr/m/n/9 Dimitrios
+ []
+
+
+Overfull \hbox (13.90936pt too wide) in paragraph at lines 436--460
+[][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 147.06168pt on input line 461.
+
+File: previous-1.png Graphic file (type bmp)
+<previous-1.png>
+
+Overfull \hbox (63.27702pt too wide) in paragraph at lines 465--466
+ [][] 
+ []
+
+File: previous-2.png Graphic file (type bmp)
+<previous-2.png>
+[12] [13] [14] [15]
+Underfull \hbox (badness 3471) in paragraph at lines 528--529
+[]\TU/lmr/m/n/9 Simon Baker, Daniel Scharstein, J. P. Lewis, Stefan Roth, Micha
+el J.
+ []
+
+[16] (final_report.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3799 strings out of 427748
+ 51598 string characters out of 3150413
+ 151072 words of memory out of 3000000
+ 7783 multiletter control sequences out of 15000+200000
+ 8529 words of font info for 45 fonts, out of 3000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 36i,9n,39p,1561b,611s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on final_report.pdf (16 pages).
